@@ -1,0 +1,13 @@
+﻿Region,Segment,Goal
+Central,Consumer,75000
+East,Consumer,185000
+South,Consumer,60000
+West,Consumer,125000
+Central,Corporate,32000
+East,Corporate,80000
+South,Corporate,70000
+West,Corporate,145000
+Central,Home Office,35000
+East,Home Office,100000
+South,Home Office,23000
+West,Home Office,40000
