@@ -10,8 +10,11 @@ Maven Supplies, a cutting-edge office supply store looking to bring the sizzle b
 
 ### KPIs
 1- Total Sales
+
 2- Average Discount
+
 3- Profit %
+
 4- Total Quantity
 
 ### The Brief
