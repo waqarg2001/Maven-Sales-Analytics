@@ -1,7 +1,7 @@
 # Maven Sales Analytics
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Maven-Sales-Analytics/blob/main/Executive%20Dashboard.png' width='950px' height='750px'>
+  <img src='https://github.com/waqarg2001/Maven-Sales-Analytics/blob/main/Executive%20Dashboard.png' width='950px' height='600px'>
 </p>  
 
 ### Introduction
